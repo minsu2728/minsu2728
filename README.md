@@ -1,5 +1,7 @@
 https://capsule-render.vercel.app/api?
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi there👋! I'm Minsu&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 
 
 <!-- 
@@ -33,6 +35,9 @@ Tool<br>
 💬 Contact me 💬<br>
 phone 010.8109.2728<br>
 E-mail alstn8109@naver.com
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi there👋! I'm Minsu&fontSize=90" />
+
 
 <!--
 **minsu2728/minsu2728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
