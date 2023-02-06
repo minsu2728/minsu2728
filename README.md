@@ -4,6 +4,17 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
 -->
 
+
+
+
+
+💪 Skills
+Platforms & Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-#0B4EA2?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-#F80000?style=flatsquare&logo=Oracle
+&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 
