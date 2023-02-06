@@ -1,5 +1,5 @@
 https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi there👋! I'm Minsu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi there👋! I'm Minsu&fontSize=90)
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi there👋! I'm Minsu&fontSize=90" />
 
@@ -13,7 +13,7 @@ SNS List<br>
 <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=alstn8109@naver.com&logoColor=white"/></a>
 
 
-💪 Skills <br><br>
+💪 Skills <br><br>:heart:
 Platforms & Languages<br>
 <img src="https://img.shields.io/badge/JAVA-0B4EA2?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
