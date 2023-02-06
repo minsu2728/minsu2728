@@ -4,7 +4,7 @@
 <!-- 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
 -->
-<p center> 
+<div align="center">
 :woman:SNS List<br>
 <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=alstn8109@naver.com&logoColor=white"/></a>
@@ -32,6 +32,8 @@ Platforms & Languages<br>
 💬 Contact me 💬<br>
 :iphone: 010.8109.2728<br>
 :email: alstn8109@naver.com
+  
+  </>
 
 
 
