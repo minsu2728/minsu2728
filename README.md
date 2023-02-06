@@ -1,10 +1,15 @@
+https://capsule-render.vercel.app/api?
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 ### Hi there 👋, My Name is Minsu Kim
 
 <!-- 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
 -->
 
-SNS List
+SNS List<br>
 <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=alstn8109@naver.com&logoColor=white"/></a>
 
