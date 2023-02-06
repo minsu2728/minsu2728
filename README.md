@@ -7,7 +7,7 @@
 <div align="center">
   
   <div>
-    :woman:SNS List <br>
+    :iphone:SNS List <br>
     <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-      square&logo=Notion&logoColor=white"/></a>
     <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=alstn8109@naver.com&logoColor=white"/></a>
    </div>
@@ -40,6 +40,7 @@
  </div>
   <br> <br>
         
+  <div>:woman: 안녕하세요 백엔드 개발자 김민수입니다.</div>
   <div>
   💬 Contact me 💬<br>
   Phone : 010.8109.2728<br>
