@@ -1,4 +1,5 @@
 https://capsule-render.vercel.app/api?
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi there👋! I'm Minsu&fontSize=90)
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text==Hi there👋! I'm Minsu&fontSize=90" />
 
