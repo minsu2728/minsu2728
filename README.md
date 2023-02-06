@@ -1,5 +1,5 @@
 <!-- https://capsule-render.vercel.app/api? -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=HiI'mMinsu&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=Hi:wave:I'm Minsu&fontSize=80)
 
 <!-- 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
