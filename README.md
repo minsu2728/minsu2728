@@ -6,7 +6,7 @@
 
 SNS List
 <a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/Notion-95df03ab39ad43cda331963bb76b8e03" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=alstn8109@naver.com&logoColor=white"/></a>
 
 
 💪 Skills <br><br>
@@ -22,7 +22,7 @@ Platforms & Languages<br>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
-Tool
+Tool<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
