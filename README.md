@@ -40,7 +40,7 @@
  </div>
   <br> <br>
         
-  <div>:woman: 안녕하세요 백엔드 개발자 김민수입니다.</div>
+
   <div>
   💬 Contact me 💬<br>
   Phone : 010.8109.2728<br>
