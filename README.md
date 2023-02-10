@@ -14,7 +14,7 @@
   <br> <br>
 
   <div>
-  💪 Skills Platforms & Languages
+  :computer: Skills Platforms & Languages
     <div>
       <img src="https://img.shields.io/badge/JAVA-0B4EA2?style=flat-square&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -29,7 +29,7 @@
        </div>
    </div>
 
-  <br> <br>
+  <br>
    <div>
   :hammer:Tool
       <div>
@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
      <div>
  </div>
-  <br> <br>
+  <br> 
         
 
   <div>
